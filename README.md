@@ -1,4 +1,4 @@
-noob
+cool noob
 ====
 
 hello world!
